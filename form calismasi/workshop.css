@@ -1,0 +1,39 @@
+.in {
+  display: inline-block;
+  width: 150px;
+  margin-bottom: 10px;
+}
+form {
+  background-color: lightcoral;
+  width: 400px;
+  height: 700px;
+  padding: 30px 30px 30px 30px;
+  border-radius: 30px;
+  margin: auto;
+}
+.rows {
+  display: inline-block;
+  width: 150px;
+}
+.rows2 {
+  display: inline-block;
+  width: 175px;
+}
+.file {
+  display: inline-block;
+  width: 330px;
+}
+.country {
+  width: 137px;
+}
+textarea {
+  resize: none;
+}
+input {
+  border-radius: 5px;
+  border: none;
+}
+h1 {
+  text-align: center;
+  margin-left: -10;
+}

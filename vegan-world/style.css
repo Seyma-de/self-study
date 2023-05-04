@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-image: url(https://www.datocms-assets.com/64859/1654085069-vejetaryen-ve-vegan-beslenme-1.jpg?q=70&auto=format&w=1280&fit=max&iptc=allow);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  /* height: 100vh;  */
+}
+nav {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+a {
+  color: white;
+  font-size: large;
+}
+.container {
+  /* border: 2px solid red;  */
+  width: 400px;
+  height: 600px;
+  margin: auto;
+  margin-top: 70px;
+  margin-right: 400px;
+  color: blanchedalmond;
+  font-size: xx-large;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.title {
+  font-size: larger;
+  font-family: Arial, Helvetica, sans-serif;
+  color: blanchedalmond;
+}
+section {
+  /* border: 2px solid red; */
+  height: 200px;
+  width: 200px;
+  margin-left: 30px;
+  padding: 20px;
+
+  text-align: justify;
+}
+a {
+  text-decoration: none;
+  margin: 10px;
+  padding: 10px;
+  font-style: italic;
+}
+#urun1 {
+  margin-left: 10px;
+}
